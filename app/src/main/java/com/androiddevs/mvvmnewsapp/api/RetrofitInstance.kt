@@ -26,4 +26,5 @@ class RetrofitInstance {
             retrofit.create(NewsApi::class.java)
         }
     }
+
 }
